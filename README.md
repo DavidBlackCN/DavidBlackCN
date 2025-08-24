@@ -28,16 +28,14 @@
     <a href="https://space.bilibili.com/453841968"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=DavidBlackCN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@DavidBlackCN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DavidBlackCN&show_icons=true&theme=dracula" width="100%" />
@@ -79,9 +77,9 @@
 
 <!-- profile-3d-contrib 3D 贡献图-->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 </div>
@@ -93,10 +91,10 @@
 </h2>
 
 <a href="https://github.com/DavidBlackCN/DB-Blog-Plume">
-  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=DB-Blog-Plume&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=DB-Blog-Plume&theme=dracula" width=100%/>
 </a>
 <a href="https://github.com/DavidBlackCN/my-icons">
-  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=my-icons&theme=dracula" />
+  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=my-icons&theme=dracula" width=100%/>
 </a>
 
 <!-- 添加波浪动画页脚 -->
