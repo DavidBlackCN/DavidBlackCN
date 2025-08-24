@@ -10,8 +10,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    # 添加权限
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
+        with:
+          # 明确使用具有写入权限的令牌
+          token: ${{ secrets.GITHUB_TOKEN }}
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
