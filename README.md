@@ -24,8 +24,9 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.davidblackcn.cc/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://www.davidblackcn.cc/"><img src="https://img.shields.io/badge/Blog-博客-8c36db" /></a>&emsp;
     <a href="https://space.bilibili.com/453841968"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="mailto:davidblackcn@outlook.com"><img src="https://img.shields.io/badge/Email-邮件-79dafa" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=DavidBlackCN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 
@@ -38,7 +39,7 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/DavidBlackCN/DavidBlackCN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DavidBlackCN&show_icons=true&theme=dracula" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=DavidBlackCN&show_icons=true&theme=dracula" width="80%" />
 
 <div>
 
@@ -84,18 +85,16 @@
 
 </div>
 
-<!-- 项目展示部分 -->
+<!-- blog -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
-  项目 | Project
+  <img src="https://media.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" width="30px" height="30px" style="vertical-align: middle; position: relative; top: -2px;"/>
+  个人网站 | Website
 </h2>
 
 <a href="https://github.com/DavidBlackCN/DB-Blog-Plume">
-  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=DB-Blog-Plume&theme=dracula" width=100%/>
+  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=DB-Blog-Plume&theme=dracula" width=80%/>
 </a>
-<a href="https://github.com/DavidBlackCN/my-icons">
-  <img align="center" src="https://github-readme-stats-rho-two-24.vercel.app/api/pin/?username=DavidBlackCN&repo=my-icons&theme=dracula" width=100%/>
-</a>
+
 
 <!-- 添加波浪动画页脚 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
